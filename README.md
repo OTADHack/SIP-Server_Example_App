@@ -17,7 +17,7 @@ Usage
 
 Follow this steps:
 
-+ Request your credentials on the [Oracle's TADHack website](http://tadhack.optaresolutions.com).
++ If you didn't it, request your credentials on the [Oracle's TADHack website](http://tadhack.optaresolutions.com).
 + Send an email to tadhack@optaresolutions.com informing you want to test or develop something in OCCAS. You will receive more detailled instructions.
 + Download this repository using the 'Download ZIP button' or using the clone option
 
