@@ -1,0 +1,42 @@
+@CHARSET "ISO-8859-1";
+
+BODY, TD {
+	font-family : Geneva, Verdana, Arial, Helvetica, sans-serif;
+	font-size : 9pt;
+}
+
+.regular_info {
+	font-family : Geneva, Verdana, Arial, Helvetica, sans-serif;
+	font-size : 11px;
+}
+
+.tableText_black {
+	font-family : Geneva, Verdana, Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	color: Black;
+}
+
+A:link, A:visited {
+	text-decoration: none;
+	font-family: Geneva, Verdana, Arial, Helvetica, sans-serif;
+
+
+	}
+
+
+A:hover {
+	text-decoration: underline;
+	font-family: Geneva, Verdana, Arial, Helvetica, sans-serif;
+
+
+	}
+
+h3 {
+	font-size: 16;
+	font-weight: bold
+}
+
+th {
+	font-size: 10;
+	font-weight: bold
+}
